@@ -1,0 +1,8 @@
+*.a
+*.o
+*.log
+*.temp
+*.txt
+*.json
+*.vscode
+*.swp
